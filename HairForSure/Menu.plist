@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Progress</string>
+		<key>ImgName</key>
+		<string>prograss_icon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>General Information</string>
+		<key>ImgName</key>
+		<string>info_icon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Alerts</string>
+		<key>ImgName</key>
+		<string>reminder_icon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Buy Product</string>
+		<key>ImgName</key>
+		<string>buy_icon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>App Settings</string>
+		<key>ImgName</key>
+		<string>app_setting_icon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>How To Use</string>
+		<key>ImgName</key>
+		<string>help_icon</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Contact Us</string>
+		<key>ImgName</key>
+		<string>contact_icon</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,54 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - NSDate+Calendar (0.0.7)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SFHFKeychainUtils (0.0.1)
+  - TTTAttributedLabel (1.13.4)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+  - UICountingLabel (1.2.0)
+  - YSLContainerViewController (0.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - NSDate+Calendar
+  - SDWebImage
+  - SFHFKeychainUtils
+  - TTTAttributedLabel
+  - UIActivityIndicator-for-SDWebImage
+  - UICountingLabel (~> 1.2.0)
+  - YSLContainerViewController
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  NSDate+Calendar: 30747b15cbeda4d835c39f5d597d8eaa2ddc3942
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SFHFKeychainUtils: 9576b411a79a058f4d5381ace6f3242b9a62e664
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+  YSLContainerViewController: f4ca045a6965333db46d8c793483b07abb3a0508
+
+COCOAPODS: 0.37.2

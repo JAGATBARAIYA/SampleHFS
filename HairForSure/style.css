@@ -1,0 +1,82 @@
+p{line-height:25px;font-weight:300;}
+.wrap{padding:5px}
+/* End Free style sheet */
+
+
+/*===== How to Work ===== */
+.how_apply{display:block;}
+.how_apply h2{color:#102649;font-size:28px;text-align:center;font-family: 'Roboto', sans-serif;}
+.how_apply  p{color:#102649;font-size:16px;margin:0 0 30px 0;font-family: 'Roboto', sans-serif;}
+.how_apply .apply_box_main{display:block;}
+.how_apply .apply_contain{display:block;} 
+.how_apply .apply_contain h3{font-size:18px;color:#102649;margin:20px 0;font-family: 'Roboto', sans-serif;text-align:center;}
+.how_apply .apply_contain p{font-size:16px;color:#102649;font-family: 'Roboto', sans-serif;}
+.how_apply .apply_img{margin:30px auto 20px;display:table;text-align:center;}
+
+/*====== End How to Work ======== */ 
+
+
+/*======= what_to_expect ======== */
+.expect{display:block;margin:20px 0}
+.expect p{font-size:16px;color:#102649;margin:0 0 10px 0;font-family: 'Roboto', sans-serif;}
+.expect p span{font-weight:bold;color:#102649;font-family: 'Roboto', sans-serif;}
+.weeks{display:block;}
+.expect .weeks h2{font-size:20px;text-align:center;color:#102649;font-family: 'Roboto', sans-serif;}
+.expect .weeks p{font-size:16px;color:#102649;margin:0 0 40px 0;font-family: 'Roboto', sans-serif;}
+.expect_main{display:block;margin:0 0 20px 0}
+.expect .results{font-size:12px;font-weight:lighter;text-align:center;font-family: 'Roboto', sans-serif;}
+.expect .results p{text-align:center;font-family: 'Roboto', sans-serif;}
+/*======= End what_to_expect ======== */
+
+/*======= AGA ======== */
+
+.aga{display:block;}
+.aga_main{display:block;margin:20px 0}
+.aga_main p{font-size:16px;color:#102649;display:inline;font-family: 'Roboto', sans-serif;}
+.aga_main p span{font-weight:bold;font-family: 'Roboto', sans-serif;}
+.aga_main h2{color:#102649;font-size:18px;margin:20px 0 5px 0;font-family: 'Roboto', sans-serif;}
+.aga_main li {list-style:outside;color:#102649;font-size:18px;margin:0 0 16px 0;font-family: 'Roboto', sans-serif;}
+.aga_main a{text-decoration:underline;font-size:16px;color:#102649;margin:0 3px 0 0;font-family: 'Roboto', sans-serif;}
+.aga_main h1{color:#102649;margin:20px 0;font-family: 'Roboto', sans-serif;}
+.growth{background:#102649}
+.growth h2{color:#fff;font-size:25px;line-height:29px;text-align:center;padding:15 12px;font-family: 'Roboto', sans-serif;text-transform:uppercase;}
+/*======= End AGA ======== */
+
+
+/*======= life hair ===== */
+.life_hair{display:block;margin:20px 0}
+.life_hair_main{display:block;}
+.life_hair h1{color:#102649;text-align:center;margin:0 0 30px;font-size:30px;font-family: 'Roboto', sans-serif;}
+.life_hair_main{display:block;margin:0 0 20px 0;}
+.life_hair_main h2{color:#102649;font-size:16px;font-family: 'Roboto', sans-serif;}
+.life_hair_main p{color:#102649;font-size:16px;font-family: 'Roboto', sans-serif;}
+.life_hair p span {text-decoration:underline;font-family: 'Roboto', sans-serif;}
+.life_space{margin:0 0 10px 0}
+/*======= End life hair ===== */
+
+
+/*========= rutexil ===========*/
+.rutexil{display:block;}
+.rutexil_main{display:block}
+.rutexil_main h2{color:#102649;font-size:20px;font-family: 'Roboto', sans-serif;text-align:center;line-height:21px;}
+.rutexil_main  p{font-size:16px;color:#102649;font-family: 'Roboto', sans-serif;}
+.rutexil_main .rut_header{display:block;margin:0 0 30px 0}
+.rutexil_main .formula{background-color:#102649;padding:5px 20px;margin:20px 0}
+.rutexil_main .formula h2{color:#fff;font-size:28px;line-height:27px;font-family: 'Roboto', sans-serif;text-transform:uppercase;}
+.rutexil_main .rutexil .growth_img{display:inline-block;}
+.rutexil_main .rutexil .growth_main{display:block;}
+.rutexil_main .growth1{display:block;margin:20px 0}
+.rutexil_main .growth_contain{display:block;vertical-align:top;}
+.rutexil_main .growth_contain span{font-weight:bold;}
+.growth1 .growth_img{display:block;text-align:center;margin:0 auto;}
+.rutexil_main p span{font-weight:bold;}
+.growth_main .growth_contain > h3{font-size:16px;color:#102649;font-family: 'Roboto', sans-serif;text-align:center;}
+/*======== End rutexil ========== */
+
+/*=============== Seal of Approval ========== */
+.approval{display:block;}
+.approval_main{display:block;font-weight:bold;}
+.sel_img{display:block;text-align:center;margin:30px auto;}
+.approval_main p{font-size:16px;color:#102649;font-family: 'Roboto', sans-serif;}
+
+/*================ End Seal of Approval ============*/
